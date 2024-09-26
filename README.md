@@ -1,2 +1,2 @@
-# dbms
+# python
 studying purpose
